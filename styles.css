@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+#animal-photos{
+	margin-inline:30px;
+	background-color:#444444;
+	border-radius:5px;
+	padding:5px;
+	
+}
+#photo-heading{
+	text-align:center;
+	text-transform:uppercase;
+	font-size:20px;
+	color:white;
+
+}
+.photoGallery{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	margin-top:10px;
+	
+}
+.photoGallery>img{
+	height:200px;
+	width:150px;
+	margin:5px;
+}
+
+	
+	
+	
+}
